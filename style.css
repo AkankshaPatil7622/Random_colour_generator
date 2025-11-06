@@ -1,0 +1,13 @@
+
+.container{
+    height: 600px;
+    box-shadow: 4px 3px 15px rgba(238, 52, 83 0.8);
+    background-color: rgb(32, 32, 32);
+}
+
+.btn{
+    background: linear-gradient(45deg,#c52962,#2b6ead);
+    margin-left: 810px;
+    height: 70px;
+    
+}
